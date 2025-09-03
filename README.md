@@ -1,4 +1,4 @@
 # simran-1st
 this is my own repositary.
 <br>
-author- simran
+author- simran kumari
